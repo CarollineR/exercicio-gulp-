@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como atividade prática para criação e configura
 As tarefas implementadas incluem:
 
 Compilação de SASS → CSS
-Compressão de imagens
-Compressão e minificação de JavaScript
-Geração de sourcemaps
-Criação de estrutura organizada entre source/ e build/
+Compressão de imagens;
+Compressão e minificação de JavaScript;
+Geração de sourcemaps;
+Criação de estrutura organizada entre source/ e build/.
